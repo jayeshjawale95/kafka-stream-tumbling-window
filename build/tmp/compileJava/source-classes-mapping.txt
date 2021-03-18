@@ -1,0 +1,9 @@
+io/confluent/developer/avro/Rating.java
+ io.confluent.developer.avro.Rating
+ io.confluent.developer.avro.Rating$1
+ io.confluent.developer.avro.Rating$Builder
+io/confluent/developer/RatingTimestampExtractor.java
+ io.confluent.developer.RatingTimestampExtractor
+io/confluent/developer/TumblingWindow.java
+ io.confluent.developer.TumblingWindow
+ io.confluent.developer.TumblingWindow$1
